@@ -1,1 +1,1 @@
-FROM quay.io/deis/base:0.3.1
+FROM quay.io/deis/base:0.3.4
